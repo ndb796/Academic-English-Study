@@ -38,10 +38,18 @@
 * (그 결과가) 주목할 만한, 놀라운
 > remarkable
 
-#### 자주 사용되는 표현들
+#### 논문에서 자주 사용되는 표현들
 
 * 이전에 제안되었던
 > previously suggested
 
+#### 발표에서 자주 사용되는 표현들
+
 * 저희 논문에 대해 질문하실 게 있다면 제게 편하게 질문해 주세요.
-> If you have any questions about our work, please feel free to ask me.
+> If you have any questions about our paper, please feel free to ask me.
+
+* 이전 작업(논문)들과 우리의 작업(논문)의 차이를 설명해 드리고 싶습니다.
+> I'd like to explain the differences between our work and previous works.
+
+* 슬라이드 17쪽을 보여주세요.
+> Please turn to page 17 in the slides.
