@@ -1,6 +1,6 @@
 ### Academic English Study
 
-> 논문에 쓰기 좋은 학술 영어 문장들을 정리해보자.
+> 논문/발표에 쓰기 좋은 학술 영어 문장들을 정리해보자.
 
 #### 접속사
 
@@ -42,3 +42,6 @@
 
 * 이전에 제안되었던
 > previously suggested
+
+* 저희 논문에 대해 질문하실 게 있다면 제게 편하게 질문해 주세요.
+> If you have any questions about our work, please feel free to ask me.
