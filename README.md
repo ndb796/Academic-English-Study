@@ -43,6 +43,12 @@
 * 이전에 제안되었던
 > previously suggested
 
+* ~을/를 고려하다.
+> take into account
+
+* 이 매칭 함수는 클래스 예측과 (모델이) 예측한 바운딩 박스와 실제 바운딩 박스의 유사도를 고려하는 방식으로 동작한다.
+> The matching cost <b>takes into account</b> both the class prediction and the similarity of predicted and ground truth boxes.
+
 #### 발표에서 자주 사용되는 표현들
 
 * 저희 논문에 대해 질문하실 게 있다면 제게 편하게 질문해 주세요.
